@@ -68,4 +68,4 @@
 
 ---
 
-![](PyProject_img.png)
+![](OCR_Project_img.png)
